@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="2022.01.17-CatWebCommander_v1.3-Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/2022_01_17_CatWebCommander_v1_3_Java_jar</output-path>
+    <root id="archive" name="2022.01.17-CatWebCommander_v1.3-Java.jar">
+      <element id="module-output" name="2022.01.17-CatWebCommander_v1.3-Java" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.24.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
